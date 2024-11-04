@@ -52,5 +52,13 @@ Upon starting, the chatbot will greet you and prompt for your input. The bot can
 - **DotNetEnv**: Manages environment variables to ensure sensitive information remains secure.
 - **System.Data.SqlClient**: Included for potential future integration with a SQL database for storing bookings and feedback.
 
+## The Code in Action
+
+![Alt text]('Demo/AIChatbot - RestaurantInfo1.jpg')
+![Alt text]('Demo/AIChatbot - RestaurantInfo2.jpg')
+![Alt text]('Demo/AIChatbot - Bookings1.jpg')
+![Alt text]('Demo/AIChatbot - Bookings2.jpg')
+![Alt text]('Demo/AIChatbot - Bookings3.jpg')
+
 ## License
 This project is open-source. You are free to modify it for personal or commercial use.

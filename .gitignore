@@ -1,0 +1,35 @@
+# Ignore build outputs and project files
+bin/
+obj/
+
+# User-specific files and IDE settings
+.vscode/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Dependency directory for NuGet packages
+packages/
+.vscode/ 
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Environment variable files
+.env
+
+# Ignore logs and temporary files
+*.log
+*.tmp
+
+# Ignore any compiled DLLs and executables
+*.dll
+*.exe
+*.pdb
+
+# Ignore Rider and JetBrains related files (if using JetBrains IDEs)
+.idea/
+.idea_modules/
+*.sln.iml

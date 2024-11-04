@@ -54,11 +54,11 @@ Upon starting, the chatbot will greet you and prompt for your input. The bot can
 
 ## The Code in Action
 
-![Alt text]('Demo/AIChatbot - RestaurantInfo1.jpg')
-![Alt text]('Demo/AIChatbot - RestaurantInfo2.jpg')
-![Alt text]('Demo/AIChatbot - Bookings1.jpg')
-![Alt text]('Demo/AIChatbot - Bookings2.jpg')
-![Alt text]('Demo/AIChatbot - Bookings3.jpg')
+![Alt text](Demo/AIChatbot - RestaurantInfo1.jpg)
+![Alt text](Demo/AIChatbot - RestaurantInfo2.jpg)
+![Alt text](Demo/AIChatbot - Bookings1.jpg)
+![Alt text](Demo/AIChatbot - Bookings2.jpg)
+![Alt text](Demo/AIChatbot - Bookings3.jpg)
 
 ## License
 This project is open-source. You are free to modify it for personal or commercial use.
